@@ -72,5 +72,6 @@
         "__locale": "cpp",
         "__threading_support": "cpp"
     },
-    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+    "C_Cpp.default.compilerPath": "d:/COOLYEAH/locales/bin/g++.exe",
+    "C_Cpp.errorSquiggles": "enabled"
 }
